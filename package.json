@@ -1,0 +1,26 @@
+{
+  "name": "18652-chat-app",
+  "version": "1.0.0",
+  "description": "18652 Chat App",
+  "main": "app.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.10.2",
+    "jquery": "^3.1.0",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenjiChao/18652-Chat-App.git"
+  },
+  "author": "Kenji Chao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenjiChao/18652-Chat-App/issues"
+  },
+  "homepage": "https://github.com/KenjiChao/18652-Chat-App#readme"
+}
